@@ -16,5 +16,5 @@ Install pydotplus before graphviz to avoid errors using pip.
 Any labelled data can be used to test for random forests and decision trees. For now used a simple [Egyptian Skulls Dataset](https://www3.nd.edu/~busiforc/handouts/Data%20and%20Stories/regression/egyptian%20skull%20development/EgyptianSkulls.html)
 
 ## Running Code
--Execute the Decision trees and Random Forests python files respectively to check results, accuracy score and to visualize the Tree/Trees.
--Random Forests can be slow depending on the data you are working with as it creates multiple decision trees using bootstrapping, bigger the data slower the process.
+- Execute the Decision trees and Random Forests python files respectively to check results, accuracy score and to visualize the Tree/Trees.
+- Random Forests can be slow depending on the data you are working with as it creates multiple decision trees using bootstrapping, bigger the data slower the process.
